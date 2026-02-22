@@ -49,6 +49,9 @@ The model takes these flower measurements:
 - Model prediction (flower species)
 - Model accuracy
 - Data visualization graph (saved as image)
+- ## Data Visualization
+
+![Iris Graph](iris_graph.png)
 
 ---
 
