@@ -14,6 +14,7 @@ It also includes data visualization to help understand the distribution of flowe
 - Displays model accuracy
 - Visualizes data using scatter plot
 - Saves visualization as an image file
+- Saves trained model using Joblib for reuse
 
 ---
 
@@ -49,7 +50,9 @@ The model takes these flower measurements:
 - Model prediction (flower species)
 - Model accuracy
 - Data visualization graph (saved as image)
-- ## Data Visualization
+- Model accuracy ~96%
+  - 
+# Data Visualization
 
 ![Iris Graph](iris_graph.png)
 
